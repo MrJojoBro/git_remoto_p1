@@ -1,0 +1,1 @@
+En este proyecto aprenderemos a perfeccionar el debido uso del git remoto.
